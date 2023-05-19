@@ -5,4 +5,10 @@ word_list = [
 'jumbojet', 
 'simpleset', 
 'roadrage',
+'scratch', 
+'pneumonia', 
+'lengths', 
+'jackpot', 
+'beekeeper', 
+'awkward'
 ]
